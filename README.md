@@ -1,6 +1,6 @@
 # HomeLabServer
 
-##Architechture
+## Architechture
 
 ![Alt text](src/hlab.PNG)
 
